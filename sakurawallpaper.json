@@ -30,101 +30,102 @@
 
   "Data":
   [
-     {
+    {
       "id":1,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"1",
       "image":"https://archive.org/download/ssskana/sakura%20%281%29.jpg"
     },
     {
       "id":2,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"2",
       "image":"https://archive.org/download/ssskana/sakura%20%281%29.png"
     },
     {
       "id":3,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"3",
       "image":"https://archive.org/download/ssskana/sakura%20%2810%29.jpg"
     },
     {
       "id":4,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"4",
       "image":"https://archive.org/download/ssskana/sakura%20%282%29.jpg"
     },
     {
       "id":5,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"5",
       "image":"https://archive.org/download/ssskana/sakura%20%282%29.png"
     },
     {
       "id":6,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"6",
       "image":"https://archive.org/download/ssskana/sakura%20%283%29.jpg"
     },
     {
       "id":7,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"7",
       "image":"https://archive.org/download/ssskana/sakura%20%283%29.png"
     },
     {
       "id":8,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"8",
       "image":"https://archive.org/download/ssskana/sakura%20%284%29.jpg"
     },
     {
       "id":9,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"9",
       "image":"https://archive.org/download/ssskana/sakura%20%284%29.png"
     },
     {
       "id":10,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"10",
       "image":"https://archive.org/download/ssskana/sakura%20%285%29.jpg"
     },
     {
       "id":11,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"11",
       "image":"https://archive.org/download/ssskana/sakura%20%285%29.png"
     },
     {
       "id":12,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"12",
       "image":"https://archive.org/download/ssskana/sakura%20%286%29.jpg"
     },
     {
       "id":13,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"13",
       "image":"https://archive.org/download/ssskana/sakura%20%286%29.png"
     },
     {
       "id":14,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"14",
       "image":"https://archive.org/download/ssskana/sakura%20%287%29.jpg"
     },
     {
       "id":15,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"15",
       "image":"https://archive.org/download/ssskana/sakura%20%287%29.png"
     },
     {
       "id":16,
-      "name_category": "Sakura Wallpapers",",
+      "name_category": "Sakura Wallpapers",
       "title":"16",
       "image":"https://archive.org/download/ssskana/sakura%20%288%29.jpg"
     }
+
   ]
 }
